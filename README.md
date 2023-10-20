@@ -1,4 +1,5 @@
 # blood-bank
+it's a project on bloodbank 
 1. Frist of all install xampp server
 2. then activate Apache and MySQL
 3. Create a folder the folder name should bloodbank add all files in it 
