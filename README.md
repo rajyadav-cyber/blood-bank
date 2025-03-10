@@ -6,4 +6,4 @@ it's a project on bloodbank
 4. Then add that folder at the given path  C:\xampp\htdocs\
 5. Open browser and type  http://localhost/phpmyadmin/ in URL
 6. There was a database files bloodbank.sql  import the sql file
-7. After the adding that file open the http://localhost/Bloodbank/
+7. After the adding that file open the http://localhost/bloodbank/
